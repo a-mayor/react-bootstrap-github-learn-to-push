@@ -1,0 +1,41 @@
+.sizeHeight{
+    height: 400px;
+}
+
+#signupBtn:hover{
+    color: #d4d4d4!important;
+    background: transparent;
+}
+/* #E97902 */
+
+.footerArea{
+    padding: 5rem 0;
+    background: url(../images/background/bg-footer.svg) no-repeat;
+    background-size:cover;
+}
+.CopyRightLink {
+    text-decoration: none;
+    font-style: italic;
+}
+.social{
+   text-align: center;
+}
+.social a > i{
+    font-size: 22px;
+    padding: 2rem;
+    color:#9F9F9F;
+}
+.social a:hover > i{
+    color:#0000CE;
+}
+
+/* .navbarFixed{
+    position: fixed;
+    width: 100%;
+    top: -1px;
+    left: 0px; right: 0;
+    background: #ffffff;
+    box-shadow: rgba(0, 0,0,0.3);
+    z-index: 999;
+    transition: background 1s ease;
+} */
